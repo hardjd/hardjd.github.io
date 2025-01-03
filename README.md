@@ -2,7 +2,7 @@
   <h1>About Me</h1>
   <p>
     Hi, my name is Josh Hardesty, an undergraduate biology student at SUNY Oneonta, 
-    with interests in GIS, R, data analysis, and fisheries science.
+    with interests in GIS, R, Python, data analysis, and fisheries science.
     Check out some of my projects below! 
   </p>
 </section>
