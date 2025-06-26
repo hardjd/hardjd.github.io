@@ -1,7 +1,7 @@
 <section id="about-me">
   <h1>About Me</h1>
   <p>
-    Hi, my name is Josh Hardesty, an undergraduate biology student at SUNY Oneonta, 
+    Hi, my name is Josh Hardesty, a recent graduate with a degree in biology from SUNY Oneonta, 
     with interests in GIS, R, Python, data analysis, and fisheries science.
     Check out some of my projects below! 
   </p>
